@@ -95,19 +95,4 @@ p {
   font-weight: 600;
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  padding-top: 5px;
-  color: var(--White);
-  font-weight: 600;
-  opacity: 0.8;
-}
-.attribution a {
-  color: hsla(50.7, 93.6%, 56.9%);
-  text-decoration: none;
-}
 
-.attribution a:hover{
-text-shadow: var(--White) 1px 1px 1px;
-}
